@@ -1,0 +1,96 @@
+*{
+    justify-items: center ;
+    margin: 0;
+    padding: 0;
+    font-family: cursive;
+    font-weight: bold;
+}
+
+
+body{
+    background-image: url("https://cdn.theanimegallery.com/theanimegallery/42370af5-21a5-4ee8-892a-e13d0d61dcfe-bleach-iphone-wallpaper.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+#header{
+    width: 100vw;
+    height: 50px;
+    background-color: rgb(255, 0, 0);
+    text-align: center;
+}
+#img{
+    position:fixed ;
+    top: 2px;
+    left: 10px;
+    width: 50px;
+    height: 50px;
+}
+#img2{
+    position:fixed ;
+    top: 3px;
+    right: 10px;
+    width: 50px;
+    height: 50px;
+}
+#img3{
+    width: 200px;
+}
+
+
+#con-1{
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+    height: auto;
+    width: 350px;
+
+}
+#con-2{
+    color: white;
+    background-color: hsla(201, 100%, 6%, 0.6);
+    border-radius: 10px;
+    padding: .1em .5em;
+}
+
+.input{
+    margin-bottom: 20px;
+    background-color: hsla(201, 100%, 91%, 0.3);
+    border:1px solid hsla(201, 100%, 6%);
+    border-radius: 5px;
+    color: white;
+    outline: none;
+    font-size: 1.5em;
+    font-weight: lighter;
+}
+a{
+    margin-bottom: 20px;
+}
+
+.btn{
+    width: 100%;
+    background-color: hsla(201, 100%, 50%,0.1);
+    border:1px solid hsla(201, 100%, 50%);
+    border-radius: 5px;
+    outline: none;
+    color: white;
+    padding: 10px 30px;
+    margin-bottom: 20px;
+}
+
+#footer{
+    background-color: rgba(181, 210, 141, 0.689);
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100vw;
+    height: 30px;
+    font-weight: bold;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+

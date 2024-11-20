@@ -1,0 +1,28 @@
+*{
+    /* background-image: url("https://img.freepik.com/free-photo/colorful-flower-is-vase-with-yellow-center_1340-29676.jpg"); */
+    /* background-attachment: scroll; */
+    /* background-repeat: no-repeat; */
+    /* background-position: left; */
+    background-color: rgb(236, 182, 236);
+    color: white;
+}
+
+/* #form{
+    background-color: white;
+    width: 500px;
+    height: 500px;
+    text-align: center;
+    color: white;
+    border-style: dashed;
+    border-width: 20px;
+} */
+
+p{
+    border-width: 2px;
+    border-color: rgb(0, 0, 0);
+    border-style:solid;
+    border-image: url("");
+    border-radius: 40px;
+    border-spacing: 500px;
+    
+}

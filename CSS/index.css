@@ -1,0 +1,19 @@
+*{
+    width: auto;
+    height: auto;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+
+}
+div{
+     background-color: brown;
+}
+u{
+    background-color: black;
+}
+#par1{
+    background-color: chartreuse;
+}
+.bold{
+    background-color: tomato;
+}
