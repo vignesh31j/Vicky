@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(161, 161, 219);
+}
+p{
+    width: fit-content;
+    height: auto;
+    border: 50px solid rgb(2, 106, 2);
+    font-size: 100px;
+    padding: 20px;
+    background-color: rgb(141, 229, 141);
+    margin: 100px;
+}
