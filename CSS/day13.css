@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.class1{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    position: static;
+}
+
+.class2{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 10px;
+    top: 10px;
+}
+
+.class3{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    z-index: 1;
+}

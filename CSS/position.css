@@ -1,0 +1,32 @@
+.paris{
+    background-color: red;
+    color: black;
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    margin-left: 40px;
+    top: 160px;
+    position: relative;
+    z-index: 1;
+}
+
+#img{
+    width: 200px;
+    height: 200px;
+    
+}
+
+.content{
+    background-color: rgb(162, 115, 115);
+    color: black;
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    margin-left: 150px;
+    position: relative;
+}
+
+p{
+    position: absolute;
+    left: 100px;
+}
