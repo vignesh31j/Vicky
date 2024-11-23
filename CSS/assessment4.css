@@ -1,0 +1,215 @@
+body{
+    background-image: url("https://image.cdn2.seaart.me/2023-08-16/14530547034359813/f60b32f769a51817a19a734fb92bf6d1659f4167_high.webp");
+    background-size: cover;
+    background-repeat: no-repeat ;
+    justify-items: center;
+}
+
+#container{
+    background-color: rgba(76, 0, 255, 0.321);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid rgba(0, 0, 0, 0);
+    border-radius: 40px;
+    width: 1200px;
+    height: 800px;
+}
+
+#con-1{
+    position: relative;
+    width: 530px;
+    height: 700px;
+}
+
+#con-2{
+    background-color: rgba(66, 41, 181, 0.953);
+    position: absolute;
+    text-align: center;
+    color: white;
+    z-index: 1;
+    width: 250px;
+    height: 100px;
+    border: 5px solid rgb(0, 0, 0);
+    font-size: 30px;
+    font-weight: bolder;
+    border-radius: 10px;
+}
+
+#con-3{
+    position: relative;
+    width: 530px;
+    height: 700px;
+}
+
+#content1{
+    background-image: url("https://cdn.oneesports.gg/cdn-data/2022/01/Bleach_IchigoTYBWlogo.webp");
+    box-shadow: 5px 5px 5px 5px  rgb(0, 0, 0);
+    background-size: cover;
+    background-repeat: no-repeat ;
+    border: 5px solid rgb(29, 29, 203);
+    border-radius: 10px;
+    text-align: center;
+    left: 5px;
+    top: 5px;
+    position: absolute;
+    width: 490px;
+    height: 300px;
+}
+
+#content2{
+    background-image: url("https://static.toiimg.com/thumb/msid-111631028,width-400,resizemode-4/111631028.jpg");
+    box-shadow: 5px 5px 5px 5px  rgb(0, 0, 0);
+    background-size: cover;
+    background-repeat: no-repeat ;
+    background-size: cover;
+    background-repeat: no-repeat ;
+    border: 5px solid  rgb(55, 203, 29);
+    border-radius: 10px;
+    text-align: center;
+    position: absolute;
+    left: 5px;
+    bottom: 5px;
+    width: 490px;
+    height: 300px;
+}
+
+#content3{
+    background-image: url("https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/3f283002b47c62b1e5d311c45f95c97e.jpg");
+    background-repeat: no-repeat;
+    box-shadow: 5px 5px 5px 5px  rgb(0, 0, 0);
+    background-size: cover;
+    border: 5px solid rgb(203, 29, 29);
+    border-radius: 10px;
+    text-align: center;
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    width: 490px;
+    height: 300px;
+}
+
+#content4{
+    background-image: url("https://www.gematsu.com/wp-content/uploads/2024/06/Fairy-Tail-2-Ann_06-18-24.jpg");
+    background-repeat: no-repeat;
+    box-shadow: 5px 5px 5px 5px  rgb(0, 0, 0);
+    background-size: cover;
+    border: 5px solid rgb(203, 29, 136);
+    border-radius: 10px;
+    text-align: center;
+    position: absolute;
+    right: 5px;
+    bottom: 5px;
+    width: 490px;
+    height: 300px;
+}
+
+#p1{
+    border: 10px solid rgb(255, 255, 255);
+    border-radius: 50px;
+    box-shadow: 3px 3px 3px 3px  rgb(0, 0, 0);
+    font-size: 40px;
+    background-color: rgb(29, 29, 203);
+    color: white ;
+    position: absolute;
+    top: -60px;
+    left: -5px;
+    width: 50px;
+    height: 50px;
+}
+
+#p2{
+    border: 10px solid rgb(255, 255, 255);
+    box-shadow: 3px 3px 3px 3px  rgb(0, 0, 0);
+    border-radius: 50px;
+    font-size: 40px;
+    background-color: rgb(55, 203, 29);
+    color: white;
+    position: absolute;
+    top: -60px;
+    left: -5px;
+    width: 50px;
+    height: 50px;
+}
+
+#p3{
+    border: 10px solid rgb(255, 255, 255);
+    box-shadow: 3px 3px 3px 3px  rgb(0, 0, 0);
+    border-radius: 50px;
+    font-size: 40px;
+    background-color: rgb(203, 29, 29);
+    color: white ;
+    position: absolute;
+    top: -60px;
+    right: -50px;
+    right: 0;
+    width: 50px;
+    height: 50px;
+    
+}
+
+#p4{
+    border: 10px solid rgb(255, 255, 255);
+    box-shadow: 3px 3px 3px 3px  rgb(0, 0, 0);
+    border-radius: 50px;
+    font-size: 40px;
+    background-color:rgb(203, 29, 136);
+    color: white;
+    position: absolute;
+    top: -60px;
+    right: -5px;
+    width: 50px;
+    height: 50px;
+}
+
+#pp1{
+    border: 5px solid rgb(255, 255, 255);
+    box-shadow: 3px 3px 3px 3px  rgb(0, 0, 0);
+    border-radius: 50px;
+    font-size: 35px;
+    background-color:rgb(29, 29, 203);
+    color: white;
+    position: absolute;
+    width: 210px;
+    top: -60px;
+    left: 140px;
+}
+
+#pp2{
+    border: 5px solid rgb(255, 255, 255);
+    box-shadow: 3px 3px 3px 3px  rgb(0, 0, 0);
+    border-radius: 50px;
+    font-size: 35px;
+    background-color:rgb(55, 203, 29);
+    color: white;
+    position: absolute;
+    width: 210px;
+    top: -60px;
+    left: 140px;
+}
+
+#pp3{
+    border: 5px solid rgb(255, 255, 255);
+    box-shadow: 3px 3px 3px 3px  rgb(0, 0, 0);
+    border-radius: 50px;
+    font-size: 35px;
+    background-color:rgb(203, 29, 136);
+    color: white;
+    position: absolute;
+    width: 210px;
+    top: -60px;
+    left: 140px;
+}
+
+#pp4{
+    border: 5px solid rgb(255, 255, 255);
+    box-shadow: 3px 3px 3px 3px  rgb(0, 0, 0);
+    border-radius: 50px;
+    font-size: 35px;
+    background-color:rgb(203, 29, 136);
+    color: white;
+    position: absolute;
+    width: 210px;
+    top: -60px;
+    left: 140px;
+}
