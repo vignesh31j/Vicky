@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .container{
+            display: flex;
+            border: 2px solid black;
+            flex-direction: column;
+            justify-content: center;
+            width: 1700px;
+            padding: 10px;
+        }
+        .con-1{
+            background-color: blue;
+            height: 150px;
+            margin: 10px;
+        }
+        .con-2{
+            display: flex;
+            flex-wrap: wrap;
+            flex-direction: row;
+            justify-content: space-between;
+        }
+        .con-3{
+            display: flex;
+            justify-content: space-between;
+            flex-direction: row;
+        }
+        .orange{
+            background-color: orange;
+            width: 650px;
+            margin: 10px;
+        }
+        .green{
+            background-color: green;
+            margin: 10px;
+            width: 1000px;
+            height: 150px;
+        }
+        .red{
+            background-color: red;
+            margin: 10px;
+            width: 800px;
+            height: 250px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="con-1">blue</div>
+        <div class="con-2">
+            <div class="orange">orange</div>
+            <div>
+                <div class="green">green</div>
+                <div class="green">green</div>
+            </div>
+        </div>
+        <div class="con-3">
+            <div class="red">red</div>
+            <div class="red">red</div>
+        </div>
+    </div>
+</body>
+</html>
